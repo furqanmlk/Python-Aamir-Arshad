@@ -23,7 +23,7 @@ printName('Furqan Malik')   # This will call printName from mod2 due to the last
 # Approach 5: Using module names to avoid conflict
 import mod1
 import mod2
-mod1.printName('Furqan Malik')
+mod1.printName('Arshad Iqbal')
 mod2.printName('Aamir Arshad')
 
 # Approach 6: Calling  specific functions right after import
